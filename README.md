@@ -14,7 +14,7 @@ Este es un juego del ahorcado implementado en Python. El objetivo del juego es a
 
 1. Clona el repositorio a tu máquina local.
 ```bash
-git clone https://github.com/nsandr3s/AhorcadoClasicoPhyton.git
+git clone https://github.com/nsandr3s/AhorcadoClasicoPython.git
 ```
 2. Navega al directorio del proyecto.
 ```bash
